@@ -5,6 +5,8 @@
 ## **¿Cómo Responderemos las Preguntas de Investigación?**
 Hay más de una forma, una de ellas es utilizando la información proporcionada por la Encuesta Demográfica y de Salud Familiar (ENDES) ([Diapositiva 1](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/Diapositiva%201.pdf "Diapositiva 1")).
 
+[![Alt text](https://img.youtube.com/vi/iyJvTCXUrjw/0.jpg)](https://www.youtube.com/watch?v=iyJvTCXUrjw)
+
 ## **Análisis de la ENDES con el Paquete Estadístico Stata**
 A fin de dar respuesta a las preguntas de investigación planteadas, analizaremos las ENDES 2012, 2017 y 2022 que están disponibles en el siguiente enlace [INEI Microdatos](https://proyectos.inei.gob.pe/microdatos/ "INEI Microdatos").
 
