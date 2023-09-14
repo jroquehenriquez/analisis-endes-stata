@@ -10,7 +10,7 @@ Hay más de una forma, una de ellas es utilizando la información proporcionada 
 ## **Análisis de la ENDES con el Paquete Estadístico Stata**
 A fin de dar respuesta a las preguntas de investigación planteadas, analizaremos las ENDES 2012, 2017 y 2022 que están disponibles en el siguiente enlace [INEI Microdatos](https://proyectos.inei.gob.pe/microdatos/ "INEI Microdatos").
 
-**Paso 1:** Localizamos las variables que serán analizadas, precisando el módulo y base de datos en cada una de las ENDES (ver el punto 1 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
+**Paso 1:** Localizamos las variables que serán analizadas, precisando el módulo y base de datos en cada una de las ENDES (ver el punto 1 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022")) ([Diapositiva 2](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/Diapositiva%202.pdf "Diapositiva 2")).
 
 **Paso 2:** Descargamos las bases de datos
 
