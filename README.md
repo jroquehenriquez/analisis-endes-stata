@@ -14,7 +14,9 @@ A fin de dar respuesta a las preguntas de investigación planteadas, analizaremo
 
 [![Alt text](https://img.youtube.com/vi/tnSm74gLi5c/0.jpg)](https://www.youtube.com/watch?v=tnSm74gLi5c)
 
-**Paso 2:** Descargamos las bases de datos
+**Paso 2:** Descargamos las bases de datos ([Diapositiva 3](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/Diapositiva%203.pdf "Diapositiva 3"))
+
+[![Alt text](https://img.youtube.com/vi/mk_Oxgk1nqE/0.jpg)](https://www.youtube.com/watch?v=mk_Oxgk1nqE)
 
 **Paso 3:** Hacemos una fusión horizontal de las bases de datos (ver el punto 2 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
 
