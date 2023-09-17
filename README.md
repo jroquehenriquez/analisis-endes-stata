@@ -18,7 +18,9 @@ A fin de dar respuesta a las preguntas de investigación planteadas, analizaremo
 
 [![Alt text](https://img.youtube.com/vi/mk_Oxgk1nqE/0.jpg)](https://www.youtube.com/watch?v=mk_Oxgk1nqE)
 
-**Paso 3:** Hacemos una fusión horizontal de las bases de datos (ver el punto 2 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
+**Paso 3:** Hacemos una fusión horizontal de las bases de datos (ver el punto 2 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022")) ([Diapositiva 4](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/Diapositiva%204.pdf "Diapositiva 4"))
+
+[![Alt text](https://img.youtube.com/vi/grrc4gEm28g/0.jpg)](https://www.youtube.com/watch?v=grrc4gEm28g)
 
 **Paso 4:** Generamos las variables *Peso*, *Violencia psicológica y/o verbal*, *Violencia física* y *Violencia total* (ver el punto 3 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
 
