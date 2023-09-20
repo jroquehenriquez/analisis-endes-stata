@@ -22,7 +22,7 @@ A fin de dar respuesta a las preguntas de investigación planteadas, analizaremo
 
 [![Alt text](https://img.youtube.com/vi/grrc4gEm28g/0.jpg)](https://www.youtube.com/watch?v=grrc4gEm28g)
 
-**Paso 4:** Generamos las variables *Peso*, *Violencia psicológica y/o verbal*, *Violencia física* y *Violencia total* (ver el punto 3 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
+**Paso 4:** Generamos las variables *Peso*, *Violencia psicológica y/o verbal*, *Violencia física* y *Violencia total* (ver el punto 3 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022")) ([Diapositiva 5](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/Diapositiva%205.pdf "Diapositiva 5"))
 
 **Paso 5:** Establecemos la información muestral con la instrucción *svyset* (ver el punto 4 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
 
