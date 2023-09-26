@@ -54,5 +54,6 @@ Para conocer más sobre **svy**, escribir la orden **help svy** en la ventana de
 
 **Paso 11:** Hacemos una fusión vertical de las bases de datos a fin de calcular los p valores de la tabla 2 (ver Do-file ENDES FV)
 
-**Materiales**
+## **Materiales**
+
 Los materiales (diapositivas, códigos, enlaces a páginas web de interés y vídeos colgados en YouTube) están disponibles en [este repositorio](https://github.com/jroquehenriquez/analisis-endes-stata "este repositorio"). Si estas familiarizado con GitHub, puedes clonarlo localmente y tener toda la información en un solo lugar.
