@@ -38,6 +38,10 @@ A fin de dar respuesta a las preguntas de investigación planteadas, analizaremo
 
 **Paso 8:** Obtenemos las salidas para completar la *Tabla 2. Frecuencia de violencia en relación de pareja contra mujeres, situaciones y tipos* (ver el punto 7 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"))
 
+[![Alt text](https://img.youtube.com/vi/sDmZ1czBP48/0.jpg)](https://www.youtube.com/watch?v=sDmZ1czBP48)
+
+Para conocer más sobre **svy**, escribir la orden **help svy** en la ventana de comandos y hacer enter. 
+
 **Paso 9:** Obtenemos las salidas para completar las tablas (ver puntos 8, 9 y 10 de los Do-file de las [ENDES 2012](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202012.do "ENDES 2012"), [ENDES 2017](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202017.do "ENDES 2017") y [ENDES 2022](https://github.com/jroquehenriquez/analisis-endes-stata/blob/main/ENDES%202022.do "ENDES 2022"));
 - *Tabla 3. Factores asociados a violencia psicológica y/o verbal según ENDES (análisis bivariado)*
 - *Tabla 4. Factores asociados a violencia física según ENDES (análisis bivariado)*
@@ -50,5 +54,5 @@ A fin de dar respuesta a las preguntas de investigación planteadas, analizaremo
 
 **Paso 11:** Hacemos una fusión vertical de las bases de datos a fin de calcular los p valores de la tabla 2 (ver Do-file ENDES FV)
 
-## **Materiales**
+#**Materiales**
 Los materiales (diapositivas, códigos, enlaces a páginas web de interés y vídeos colgados en YouTube) están disponibles en [este repositorio](https://github.com/jroquehenriquez/analisis-endes-stata "este repositorio"). Si estas familiarizado con GitHub, puedes clonarlo localmente y tener toda la información en un solo lugar.
